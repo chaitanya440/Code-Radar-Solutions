@@ -15,4 +15,4 @@ int main () {
     printf("Name: %s",Name);
     printf("\nAge: %d",Age);
     printf("\nHobby: %s",Hobby);
-     return 0;
+     return 0:
